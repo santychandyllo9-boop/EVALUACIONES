@@ -1,0 +1,6 @@
+{
+  "name": "Buho Evaluaciones",
+  "description": "Sistema Interactivo de Evaluación Tecnológica Escolar para grados de 6 a 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
